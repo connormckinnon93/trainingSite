@@ -1,0 +1,20 @@
+/* Main Style */
+.beginning {
+	color: pink;
+
+
+}
+
+#big {
+	font-size: 10em;
+	position: center;
+	
+
+}
+
+.red-bkg{
+	background-color: beige;
+}
+.blue-bkg {
+	background-color: lightblue;
+}
